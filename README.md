@@ -1,4 +1,4 @@
-# Employee_SalaryPrediction
+# Employee_Salary or Income_Prediction
 # 💼 Employee Income Prediction App
 
 This is a simple yet powerful Streamlit web app that predicts whether an individual's income is more than $50K or not based on demographic attributes. It uses a machine learning model trained on the Adult Census dataset.
